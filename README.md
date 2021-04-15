@@ -10,6 +10,6 @@ Inputs:
 Professors, Subjects, Courses, Classrooms, Possible Time-slots, Semester Chart 
 
 Constraints:
-	Each professor has a timetable, specifying his weekly schedule by assigning one of the states “preferred”, “okay” or “not preferred” to each given time slot.
-	Each subject has one or more prerequisites. It is preferred that prerequisites take place at the same time as its following course. 
-	Each classroom has a maximum capacity and some specific facilities (such as video projector, white-board, etc). Classroom assignments must satisfy course facility requirements. Courses that students must take in one semester, according to the department’s curriculum chart must not be scheduled to the same time slot.
+Each professor has a timetable, specifying his weekly schedule by assigning one of the states “preferred”, “okay” or “not preferred” to each given time slot.
+Each subject has one or more prerequisites. It is preferred that prerequisites take place at the same time as its following course. 
+Each classroom has a maximum capacity and some specific facilities (such as video projector, white-board, etc). Classroom assignments must satisfy course facility requirements. Courses that students must take in one semester, according to the department’s curriculum chart must not be scheduled to the same time slot.
